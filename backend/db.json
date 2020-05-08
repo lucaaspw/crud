@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mouse sem fio",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell Ltitude 5400",
+      "price": 6895
+    },
+    {
+      "id": 3,
+      "name": "Teclado Mecanico",
+      "price": 1230
+    },
+    {
+      "id": 4
+    }
+  ]
+}
